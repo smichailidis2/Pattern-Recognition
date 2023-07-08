@@ -3,3 +3,4 @@ Bayesian classification, boundary detection for different a-priori probabilities
 2) non-symmetrical covariance matrices.
 
 
+Bayes1 , Bayes2 -> corresponding screenshots

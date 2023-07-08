@@ -2,7 +2,7 @@
 ## *Pattern Recognition and its applications in Machine Learning*
 
 ## Lab 1
-Mainly Classification (Bayes,PCA,LDA)
+Mainly Classification ([Bayes](https://github.com/smichailidis2/Pattern-Recognition/tree/main/lab1/bayesian_class),[PCA](https://github.com/smichailidis2/Pattern-Recognition/tree/main/lab1/pca),[LDA](https://github.com/smichailidis2/Pattern-Recognition/tree/main/lab1/lda))
 
 ## Lab 2
 Linear & non-Linear Regression,

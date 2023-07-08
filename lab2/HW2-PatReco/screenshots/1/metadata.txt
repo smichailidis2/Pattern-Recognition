@@ -1,0 +1,19 @@
+Cost at initial theta (zeros): 0.693147
+Gradient at initial theta (zeros): 
+ -0.100000 
+ -12.009217 
+ -11.262842 
+ 
+ 
+ 
+Cost at theta found by fminunc: 0.203498
+theta: 
+ -25.161343 
+ 0.206232 
+ 0.201472 
+ 
+ 
+ 
+For a student with scores 45 and 85, we predict an admission probability of 0.776291
+
+Train Accuracy: 89.000000

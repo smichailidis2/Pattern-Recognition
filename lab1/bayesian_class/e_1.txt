@@ -1,1 +1,5 @@
-1
+Bayesian classification, boundary detection for different a-priori probabilities given:
+1) symmetrical covariance matrices,
+2) non-symmetrical covariance matrices.
+
+

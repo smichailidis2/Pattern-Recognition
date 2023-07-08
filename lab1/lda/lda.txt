@@ -1,1 +1,5 @@
-lda
+LDA vs. PCA
+
+Linear discriminant analysis bersus Principal component analysis
+
+Comparing the 2 methods on a 2-D dataset.

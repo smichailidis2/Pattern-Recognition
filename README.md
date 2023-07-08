@@ -1,7 +1,7 @@
 # **Pattern-Recognition**
 ## *Pattern Recognition and its applications in Machine Learning*
 
-## [Lab 1](https://github.com/smichailidis2/Pattern-Recognition/tree/main/lab1)
+## Lab 1
 Mainly Classification (Bayes,PCA,LDA)
 
 ## Lab 2

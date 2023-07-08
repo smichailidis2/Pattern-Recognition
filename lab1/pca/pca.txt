@@ -1,1 +1,3 @@
-pca
+Principal component analysis
+
+Dimentionality reduction on a 2-D dataset
